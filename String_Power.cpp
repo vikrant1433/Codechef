@@ -1,22 +1,20 @@
 
-/*  Shubhanshu Agrawal */
-
-#include<vector>
-#include<stack>
-#include<set>
-#include<map>
-#include<queue>
-#include<deque>
-#include<string>
-#include<iostream>
-#include<algorithm>
-#include<cstring>
-#include<cassert>
-#include<cstdlib>
-#include<cstdio>
-#include<cmath>
-#include<string>
-#include<sstream>
+#include <vector>
+#include <stack>
+#include <set>
+#include <map>
+#include <queue>
+#include <deque>
+#include <string>
+#include <iostream>
+#include <algorithm>
+#include <cstring>
+#include <cassert>
+#include <cstdlib>
+#include <cstdio>
+#include <cmath>
+#include <string>
+#include <sstream>
 
 using namespace std;
 
