@@ -1,0 +1,11 @@
+2
+6
+Kouta 1
+Yuka 1
+Mayu 3
+Lucy 2
+Nana 5
+ABC 5
+2
+Lucy 2
+Nana 2

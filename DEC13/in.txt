@@ -1,0 +1,17 @@
+3
+1 2 3
+3 2 1
+5 6 3
+
+3
+1 1 2 3
+2 2 2 2
+1 1 3 3 
+
+Pros : 1. Robust
+       2. Cost only Rs 966
+       3. Good Range compared to other brands of comparable price
+       4. 3-years warranty
+
+
+cons: 1. No button to switch of Wifi.
